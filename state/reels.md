@@ -1,3 +1,7 @@
+# STYLE LOCK (set by the owner, applies to every task that reads this file, including the weekly review):
+# The look and format are fixed and are NOT changed by comments or stats: Toon Host cartoon style (Cassette variant on the music channel), flat fills with thick ink outlines, the orange accent, the SE / CDM badge, the host character, the calm clean long-form layout, the narrated explainer format and tone.
+# Feedback may only improve execution inside that style: factual accuracy, pacing, clarity, audio levels, caption timing, topic choice, thumbnails text, title wording.
+# A comment theme is never acted on unless it is a REPEATED THEME (3 or more comments across 2 or more videos) AND fits the style lock. One-off or abusive comments are ignored. Anything that would change the style itself is only reported to the owner as a suggestion, never applied.
 # Music Shorts / Reels log (@cassettebydimo + Dimo Mahtarp YouTube). One line per video, newest last. Never repeat a topic or angle.
 # type = fact | lesson (rotate: no more than two of the same type in a row)
 # CTA kinds: comment | save | share | follow | try-it. Never the same CTA twice in a row.
