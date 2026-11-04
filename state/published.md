@@ -15,3 +15,4 @@ date | topic | style | title | link
 2026-11-03 | NASA DART hit Dimorphos, shortened orbit 32 min; Hera sighted Didymos | toon-host | NASA Crashed Into An Asteroid On Purpose #shorts | https://www.youtube.com/watch?v=ZBjIQ7vkSdE
 2026-11-03 | Barry Marshall drank H. pylori in 1984 to show bacteria cause ulcers; Nobel 2005 | toon-host | The Doctor Who Drank Bacteria On Purpose #shorts | https://www.youtube.com/watch?v=K87nU9RhVYg
 2026-11-03 | LONG: how a rocket lands itself (7 min, public) | toon-host-long | How Does A Rocket Land Itself? | https://www.youtube.com/watch?v=-Pm01feCtw0
+2026-11-04 | Who landed a rocket first: Blue Origin New Shepard Nov 23 2015 (suborbital) vs SpaceX Dec 21 2015 (orbital); TEASER for rocket long video | toon-host TEASER | Who Really Landed A Rocket First? #shorts | https://www.youtube.com/watch?v=2ebpU2rzl14
