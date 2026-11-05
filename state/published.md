@@ -17,3 +17,4 @@ date | topic | style | title | link
 2026-11-03 | LONG: how a rocket lands itself (7 min, public) | toon-host-long | How Does A Rocket Land Itself? | https://www.youtube.com/watch?v=-Pm01feCtw0
 2026-11-04 | Who landed a rocket first: Blue Origin New Shepard Nov 23 2015 (suborbital) vs SpaceX Dec 21 2015 (orbital); TEASER for rocket long video | toon-host TEASER | Who Really Landed A Rocket First? #shorts | https://www.youtube.com/watch?v=2ebpU2rzl14
 2026-11-04 | Why fingers wrinkle in water: nervous system constricts blood vessels, 2013 Newcastle marble study 12% faster wet | toon-host | Why Do Your Fingers Turn Into Raisins? #shorts | https://www.youtube.com/watch?v=rvoYgGbbWRI
+2026-11-05 | Venus: day (243 Earth days) longer than year (225), retrograde spin, sun rises in west, 117-day sunrise cycle | toon-host | Why Is A Day On Venus Longer Than Its Year? #shorts | https://www.youtube.com/watch?v=mW4GoWo47zY
