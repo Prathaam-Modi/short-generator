@@ -14,3 +14,4 @@ date | type | topic | CTA | title
 # fact: the Amen break; the TR-808 flop that became legendary; why DnB sits near 170-174 BPM; Detroit techno origins
 # lesson: beatmatching and phrasing; kick and bass fighting for the same frequencies; EQ cuts before boosts; reference tracks; gain staging
 2026-11-05 | fact | TR-808 flop that became legendary (~12,000 sold, stopped 1983, $100 used, Planet Rock) | follow | The Drum Machine That Flopped Then Ruled Music #shorts
+2026-11-07 | lesson | Spotify loudness normalization: loud masters get turned down to -14 LUFS, headroom -1 to -2 dBTP (mastering) | own-music (Full tracks on the channel) | Why Spotify Turns Your Loud Master Down #shorts
