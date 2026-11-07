@@ -1,3 +1,6 @@
+# LEARNINGS-START
+# DAILY SHORT RULE (overrides step 0 of the daily routine): one Short MUST go out every day. The "public video in the last 20 hours" check counts ONLY Shorts (duration under 60 s or title ending #shorts). Long videos (e.g. UPI explainer) NEVER block the daily Short. Still never more than one Short per run/day.
+# LEARNINGS-END
 # RUPEE ROOTS: channel rules, topics, style lock (read by every Rupee Roots task)
 # Channel: Rupee Roots, @rupeerootsin, YouTube channel UCUnkyOFdEQw97nmgZWOHHlw. Zapier YouTube connection id 0221b7ca-c393-80dc-80d1-b671c7c274b2 (ONLY this one; never upload to the Silicon Empire or Dimo connections).
 # Audience: Indian viewers. Money explained one idea at a time, in plain English with an Indian voice. Use rupee amounts, lakh/crore, Indian examples (UPI, chai, autos, FD, gold, EMI).
