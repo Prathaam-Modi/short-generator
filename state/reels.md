@@ -1,3 +1,8 @@
+# LEARNINGS-START
+# Reviewed 2026-11-08. 3 mature music Shorts (579, 173, 762 views): too early, NO findings.
+# Early numbers only: 808 flop story (fact) 762 views, 69 pct avg viewed; sidechain lesson 173 views, 51 pct.
+# Comments: 2 on-topic ("Cool", one "AI slop" drive-by, counted as abuse only, style lock). No corrections.
+# LEARNINGS-END
 # TOPIC GUIDANCE (owner, music channel): extra categories welcome besides the existing rotation: (1) "What happens if..." for producers (boost the kick 6 dB, master to 0 dB, skip the high-pass filter); (2) producer myths vs facts (true or false with the reason); (3) "Why does this feel like that?" music psychology and theory (minor chords, build-ups, four-on-the-floor); (4) gear and culture stories (e.g. how the 808 flopped before it became iconic); (5) 60-second sound-design recipes, one sound per Short, steps a viewer can follow in any DAW; (6) DJ habits, one common mistake and its fix; (7) a recurring numbered series such as "Producer Tip #N" when it fits.
 # Never use topics that need the owner's own audio or stems (no before/after of his tracks); explain with props, diagrams and sticker text only. Pick the idea with the best chance of a click and of being pushed (a real question people wonder about, a curiosity gap in the title, a surprising answer), never at the cost of accuracy. Keep the Cassette style and the fact/lesson alternation.
 # STYLE LOCK (set by the owner, applies to every task that reads this file, including the weekly review):

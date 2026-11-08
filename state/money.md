@@ -1,5 +1,8 @@
 # LEARNINGS-START
 # DAILY SHORT RULE (overrides step 0 of the daily routine): one Short MUST go out every day. The "public video in the last 20 hours" check counts ONLY Shorts (duration under 60 s or title ending #shorts). Long videos (e.g. UPI explainer) NEVER block the daily Short. Still never more than one Short per run/day.
+# Reviewed 2026-11-08. 3 mature Rupee Roots Shorts (31, 155, 8 to 49 views): too early, NO findings. UPI LONG 4 views (1 day old).
+# Early numbers only: remittances Short 155 views, 38 pct avg viewed; inflation Short 31 views, 22 pct. No comments yet. All checked descriptions carry the education-only disclaimer.
+# NOTE: Amul Short (EtHZ91Mguo0) no longer returns from the YouTube API (deleted or private?). Owner to check.
 # LEARNINGS-END
 # RUPEE ROOTS: channel rules, topics, style lock (read by every Rupee Roots task)
 # Channel: Rupee Roots, @rupeerootsin, YouTube channel UCUnkyOFdEQw97nmgZWOHHlw. Zapier YouTube connection id 0221b7ca-c393-80dc-80d1-b671c7c274b2 (ONLY this one; never upload to the Silicon Empire or Dimo connections).
