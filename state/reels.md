@@ -21,3 +21,4 @@ date | type | topic | CTA | title
 2026-11-05 | fact | TR-808 flop that became legendary (~12,000 sold, stopped 1983, $100 used, Planet Rock) | follow | The Drum Machine That Flopped Then Ruled Music #shorts
 2026-11-07 | lesson | Spotify loudness normalization: loud masters get turned down to -14 LUFS, headroom -1 to -2 dBTP (mastering) | own-music (Full tracks on the channel) | Why Spotify Turns Your Loud Master Down #shorts
 2026-11-09 | fact | Amen break (1969 Winstons B-side, 7 s, hip hop/jungle, no royalties, 2015 fan fund) | comment | The 7 Seconds Behind Thousands of Songs #shorts
+2026-11-11 | lesson | Gain staging: -18 dBFS average per track = 0 VU alignment, analog-modeled plugins, clip gain then faders at 0 | try-it | Why Turning Your Tracks Down Fixes Your Mix #shorts
