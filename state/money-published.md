@@ -7,3 +7,4 @@ date | topic | title | link
 2026-11-07 | Indian business stories | Infosys start: 1981, Pune, Rs 10,000 (The Week 2021, Wikipedia FY2026) | Infosys Began With Just Rs 10,000 #shorts | https://www.youtube.com/watch?v=1k8dJWrd1Is
 2026-11-09 | India in the world economy | 1991 gold pledge (BT 2026, Quint/RBI AR 1991-92, Wikipedia) | The Year India Pledged Its Gold #shorts | https://www.youtube.com/watch?v=U-7SfyDs9bU
 2026-11-10 | money basics | Rs 500 note = 86% of banknote value, 41% of pieces (RBI AR 2024-25 via The Week/PTI, Taxscan, FPJ) | One Note Holds 86% of India's Cash #shorts | https://www.youtube.com/watch?v=QR6VnXJ90E4
+2026-11-11 | Indian business stories | Maruti 800 waiting list (Wikipedia Maruti 800, The Week 2023) | Why Buyers Waited 3 Years for a Maruti 800 #shorts | https://www.youtube.com/watch?v=Duw8woNr8Rg
