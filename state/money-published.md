@@ -8,3 +8,4 @@ date | topic | title | link
 2026-11-09 | India in the world economy | 1991 gold pledge (BT 2026, Quint/RBI AR 1991-92, Wikipedia) | The Year India Pledged Its Gold #shorts | https://www.youtube.com/watch?v=U-7SfyDs9bU
 2026-11-10 | money basics | Rs 500 note = 86% of banknote value, 41% of pieces (RBI AR 2024-25 via The Week/PTI, Taxscan, FPJ) | One Note Holds 86% of India's Cash #shorts | https://www.youtube.com/watch?v=QR6VnXJ90E4
 2026-11-11 | Indian business stories | Maruti 800 waiting list (Wikipedia Maruti 800, The Week 2023) | Why Buyers Waited 3 Years for a Maruti 800 #shorts | https://www.youtube.com/watch?v=Duw8woNr8Rg
+2026-11-12 | India in the world economy | crude oil import dependence 88.2% FY25, $137B bill, output 37.46 to 28.70 MT (PPAC via Rajya Sabha reply/Kashmir Life, Construction World) | Why India Buys Almost All Its Oil From Abroad #shorts | https://www.youtube.com/watch?v=FGimPEs2HQo
