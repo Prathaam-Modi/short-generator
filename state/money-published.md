@@ -10,3 +10,4 @@ date | topic | title | link
 2026-11-11 | Indian business stories | Maruti 800 waiting list (Wikipedia Maruti 800, The Week 2023) | Why Buyers Waited 3 Years for a Maruti 800 #shorts | https://www.youtube.com/watch?v=Duw8woNr8Rg
 2026-11-12 | India in the world economy | crude oil import dependence 88.2% FY25, $137B bill, output 37.46 to 28.70 MT (PPAC via Rajya Sabha reply/Kashmir Life, Construction World) | Why India Buys Almost All Its Oil From Abroad #shorts | https://www.youtube.com/watch?v=FGimPEs2HQo
 2026-11-13 | money basics | rule of 72 (Wikipedia Rule of 72, Luca Pacioli; illustrative 8 and 6 percent) | How Long Does Money Take to Double? #shorts | https://www.youtube.com/watch?v=iU1B5arCW3M
+2026-11-14 | LONG: how banks make money, the deposit vs loan rate gap (6.5 min, public) | toon-host-long-money | Your Bank Pays 7% and Charges 10%: Where Does the Gap Go? | https://www.youtube.com/watch?v=tkjgHMJvyzw
