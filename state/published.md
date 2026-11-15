@@ -1,9 +1,10 @@
 # LEARNINGS-START
-# Reviewed 2026-11-08. 8 mature Shorts, 0 mature LONG: too early, NO findings (baseline only).
-# Early numbers only (not a rule): mature Short median 1215 views; teaser Shorts (344, 295 analytics) were the weakest 2 of 8, may just be early.
-# Body Facts #4 (brain freeze, 1989 views) leads but is under 72h old; not ranked yet.
-# Rocket LONG: 26 views, avg view 65s (15 pct); GPS LONG 3 views. Judge only after 7 days; check retention then.
-# Comments: 6 total, no factual corrections, no repeated theme. One viewer said "Claude artstyle" (style lock, ignored).
+# Reviewed 2026-11-15. 21 mature Shorts: HINTS only (10-24 band). 2 mature LONG (rocket 31 views, GPS 4): too early, NO long findings.
+# Short median 1128 views, median avg viewed 58 pct. HINT: everyday 'Why do you/we...' body and tech questions (fingers, brain freeze, tickle, stomach) do best (1100-2000 views).
+# HINT: lowest mature Shorts: teasers (346, 631; third teaser 1006), DART 400, Forssmann 'He Put A Tube...' 294, Voyager 299. 'He ...' person-story titles may trail 'Why...' questions (Phineas 287 young).
+# Body Facts tagged vs untagged: medians 999 vs 1136, no difference. Teasers did not visibly lift LONG views (rocket 26 to 31 in a week).
+# LONG: avg view 87s (21 pct) rocket, 91s (23 pct) Moon; viewers leave in the first minute. Next LONG: stronger first 30s, shorter intro, chapter payoff earlier.
+# Comments: about 9 total, no factual corrections, no repeated theme. One viewer thinks foot-asleep is blood flow (video says nerve compression, matches MedlinePlus).
 # LEARNINGS-END
 # TOPIC GUIDANCE (set by the owner, applies to Silicon Empire Shorts and long videos): scenario topics are welcome in addition to explainers and facts: "What if...?", "What would happen if...?", "Imagine this happened" and "Imagine this never happened" (science, space, body, tech, nature, history, economics).
 # Rules for scenario topics: ground them in real research (physics, biology, documented history, published models or expert estimates) from pages you actually opened; say clearly that it is a thought experiment and name whose estimates you use; no invented numbers, no conspiracy or fringe claims, no politics, no real tragedies with victims, no blaming real people; for "imagine it never happened" history keep to documented technology, science and economics, never real-person speculation.
