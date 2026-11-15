@@ -23,3 +23,4 @@ date | type | topic | CTA | title
 2026-11-09 | fact | Amen break (1969 Winstons B-side, 7 s, hip hop/jungle, no royalties, 2015 fan fund) | comment | The 7 Seconds Behind Thousands of Songs #shorts
 2026-11-11 | lesson | Gain staging: -18 dBFS average per track = 0 VU alignment, analog-modeled plugins, clip gain then faders at 0 | try-it | Why Turning Your Tracks Down Fixes Your Mix #shorts
 2026-11-13 | fact | Why concert pitch A is 440 Hz (1939 BBC London conference, Swinburne: 439 prime / 440 easier to synthesize, ISO 1955, orchestras at 442) | own-music (Full tracks on the channel) | Why Music Is Tuned to 440 Hz, Not 439 #shorts
+2026-11-15 | lesson | High-pass filter every track except kick/bass to clear low-end mud (start ~120 Hz, sweep until thin, back off; pads/synths ~200 Hz) | save | Why Your Mix Sounds Muddy #shorts
