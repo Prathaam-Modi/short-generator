@@ -24,3 +24,4 @@ date | type | topic | CTA | title
 2026-11-11 | lesson | Gain staging: -18 dBFS average per track = 0 VU alignment, analog-modeled plugins, clip gain then faders at 0 | try-it | Why Turning Your Tracks Down Fixes Your Mix #shorts
 2026-11-13 | fact | Why concert pitch A is 440 Hz (1939 BBC London conference, Swinburne: 439 prime / 440 easier to synthesize, ISO 1955, orchestras at 442) | own-music (Full tracks on the channel) | Why Music Is Tuned to 440 Hz, Not 439 #shorts
 2026-11-15 | lesson | High-pass filter every track except kick/bass to clear low-end mud (start ~120 Hz, sweep until thin, back off; pads/synths ~200 Hz) | save | Why Your Mix Sounds Muddy #shorts
+2026-11-17 | fact | Technics SL-1200 (built 1972 for hi-fi, direct drive let DJs scratch, 3M+ sold, stopped 2010, back 2016) | comment | Why Every DJ Uses the Same Turntable #shorts
