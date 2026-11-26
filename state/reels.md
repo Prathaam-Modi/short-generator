@@ -27,3 +27,4 @@ date | type | topic | CTA | title
 2026-11-17 | fact | Technics SL-1200 (built 1972 for hi-fi, direct drive let DJs scratch, 3M+ sold, stopped 2010, back 2016) | comment | Why Every DJ Uses the Same Turntable #shorts
 2026-11-19 | lesson | Level-match your reference track before comparing (mastered refs are louder, louder sounds better, match loudness/LUFS then judge balance) | share | Why Your Mix Sounds Worse Than Your Reference #shorts
 2026-11-25 | fact | Why CD audio is 44,100 Hz (PCM adaptors stored audio on U-matic video tape; PAL 294x50x3, NTSC B&W 245x60x3 = 44,100; Sony PCM-1600; Nyquist >40 kHz) | own-music (Full tracks on the channel) | Why CDs Run at 44,100 Hz #shorts
+2026-11-26 | lesson | EQ: cut the competing sound instead of boosting (boost eats headroom/transient distortion, ear notices narrow boosts more than cuts, cut pad ~3 dB, A/B bypass, wide shelf boosts still OK) | try-it | Why Cutting EQ Sounds Better Than Boosting #shorts
